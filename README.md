@@ -2,6 +2,8 @@
 
 💳 JavaScript library for generating Pagar.me card hashes.
 
+This library replaces [react-native-pagarme-card-hash](https://github.com/franzon/react-native-pagarme-card-hash), which only supports react-native.
+
 ## Support
 
 - Node.js >= `6`
