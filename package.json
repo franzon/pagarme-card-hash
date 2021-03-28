@@ -1,5 +1,6 @@
 {
   "name": "pagarme-card-hash",
+  "description": "JavaScript library for generating Pagar.me card hashes",
   "version": "0.0.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
