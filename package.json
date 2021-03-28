@@ -1,0 +1,25 @@
+{
+  "name": "pagarme-card-hash",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "xo",
+    "commit": "cz"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0",
+    "typescript": "^4.2.3",
+    "xo": "^0.38.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
