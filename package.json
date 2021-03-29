@@ -1,7 +1,7 @@
 {
   "name": "pagarme-card-hash",
   "description": "JavaScript library for generating Pagar.me card hashes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Jorge Rossi",
     "email": "jorgefzrossi@gmail.com"
